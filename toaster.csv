@@ -1,0 +1,9 @@
+Unique_ID,State_name,Start_state,Possible_discrete_actions_(transitions),Transition_names,Transitions_to_states,Discretized_state_name
+1,S0,1,3,inc push defrost,7 2 3,1
+2,S1,0,3,inc stop time,8 1 1,2
+3,S2,0,3,inc push defrost,5 4 1,3
+4,S3,0,3,inc stop time_d,6 1 2,4
+5,S4,0,3,dec push defrost,3 6 7,5
+6,S5,0,3,dec stop time_d,4 7 8,6
+7,S6,0,3,dec push defrost,1 8 5,7
+8,S7,0,3,dec stop time,2 7 7,8
