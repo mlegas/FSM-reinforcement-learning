@@ -1,0 +1,7 @@
+Unique_ID,State_name,Start_state,Possible_discrete_actions_(transitions),Transition_names,Transitions_to_states
+1,S0,1,2,0 1,1 2
+2,S1,1,2,0 1,5 3
+3,S2,0,2,0 1,6 4
+4,S3,1,2,0 1,5 3
+5,S4,0,2,0 1,6 4
+6,S5,1,2,0 1,1 2
