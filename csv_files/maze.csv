@@ -1,0 +1,33 @@
+Unique_ID,State_name,Start_state,Possible_discrete_actions_(transitions),Transition_names,Transitions_to_states,Discretized_state_name
+1,IN,1,1,Up,2,1
+2,2,0,3,Up Left Right,2 2 3,2
+3,3,0,3,Up Down Right,4 3 3,3
+4,4,0,3,Up Left Right,4 5 4,4
+5,5,0,3,Up Left Down,6 5 5,5
+6,6,0,3,Up Left Right,10 6 7,6
+7,7,0,3,Up Down Right,7 7 8,7
+8,8,0,3,Up Down Right,8 9 8,8
+9,9,0,3,Left Down Right,9 9 9,9
+10,10,0,3,Up Left Right,11 10 10,5
+11,11,0,3,Up Left Right,11 11 12,2
+12,12,0,3,Up Down Right,12 12 13,7
+13,13,0,3,Up Down Right,13 13 14,7
+14,14,0,3,Up Down Right,14 14 15,7
+15,15,0,3,Up Down Right,15 16 22,10
+16,16,0,3,Left Down Right,16 17 16,11
+17,17,0,3,Left Down Right,18 17 17,12
+18,18,0,3,Up Left Down,19 18 18,5
+19,19,0,3,Up Left Right,19 20 19,4
+20,20,0,3,Up Down Left,20 20 21,13
+21,21,0,3,Up Down Left,21 21 21,14
+22,22,0,3,Up Down Right,22 23 22,8
+23,23,0,3,Left Down Right,23 24 23,11
+24,24,0,3,Left Down Right,24 25 24,11
+25,25,0,3,Left Down Right,26 25 25,12
+26,26,0,3,Up Left Down,26 27 26,13
+27,27,0,3,Up Left Down,27 27 28,15
+28,28,0,3,Left Down Right,29 28 30,16
+29,29,0,3,Up Left Down,29 29 29,14
+30,30,0,3,Up Down Right,30 30 31,7
+31,31,0,3,Up Down Right,31 32 31,17
+32,32,0,1,Left,1,18
