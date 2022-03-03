@@ -40,4 +40,4 @@ The files containing the finite state machines are located inside the `./csv_fil
 The main Jupyter notebooks that were used during the development of this project
 are located inside the `./evaluation_jupyter_notebooks/` directory, which can provide a further insight as to how the project works.
 
-Additionally, the thesis has been provided as the `2031545.pdf` file.
+Additionally, the thesis has been provided as the `Thesis.pdf` file.
